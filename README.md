@@ -23,4 +23,5 @@ the deadline.
 project description :- A stopwatch is a handheld timekeeping device used to measure and display elapsed time with precision. It typically consists of a start/stop button and a reset button, allowing users to begin timing an event, pause it, and then reset the timer to zero. Stopwatches are commonly used in sports, fitness activities, scientific experiments, and various time-sensitive applications to accurately measure the duration of an event or task. They offer high accuracy and can display time in various units, such as seconds, minutes, and hours.
 
 ![image](https://github.com/Agherasmit12/Stopwatch_Project/assets/98636140/82c2028e-d969-4e2c-b4b9-ac5fc9bd0045)
+![image](https://github.com/Agherasmit12/Stopwatch_Project/assets/98636140/0f714f28-958a-4012-96a1-3f268a2e85c4)
 
